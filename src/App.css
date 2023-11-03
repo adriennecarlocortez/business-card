@@ -125,3 +125,9 @@ footer > small {
   color: #fff;
   display: block;
 } */
+
+.copy-right-sec{
+	padding: 1.8rem;
+    color: #fff;
+    text-align: center;
+}
