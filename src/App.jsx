@@ -3,15 +3,17 @@ import './App.css'
 import Main from './components/Main'
 import Header from './components/Header'
 import Footer from './components/Footer'
-Main
+import Copyright from './components/Copyright'
+
 function App() {
   const [count, setCount] = useState(0)
-
+ 
   return (
     <>
       <Header />
       <Main />
       <Footer />
+      <Copyright />
     </>
   )
 }
