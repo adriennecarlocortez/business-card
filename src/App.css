@@ -72,7 +72,7 @@ nav{
 }
 
 .nav--btn_email:hover, .nav--btn_in:hover {
-  opacity: 95%;
+  opacity: 90%;
 }
 
 main {
@@ -118,10 +118,16 @@ footer > a > img {
 footer > a > img:hover{
   opacity: 50%;
 }
-
+/* 
 footer > small {
   font-weight: 400;
   font-size: 10px;
   color: #fff;
   display: block;
+} */
+
+.copy-right-sec{
+	padding: 1.8rem;
+    color: #fff;
+    text-align: center;
 }
